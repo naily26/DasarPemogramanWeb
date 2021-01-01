@@ -1,0 +1,17 @@
+<?php
+
+include 'koneksi.php';
+ 
+$user = $_POST['user'];
+$password_user = $_POST['password'];
+ 
+$query = "SELECT * from costumers where username='$user' and password_user='$password_user'";
+$result = mysqli_query($connect,$query);
+$cek = mysqli_num_rows($result);
+if ($cek>0){
+    //$getKtp = "SELECT ktp FROM costumers WHERE username='$user'";
+    //$getktp1 = mysqli_query($connect,$getKtp);
+   // echo '$getktp1';
+    ?>
+    <?php
+} else {?>

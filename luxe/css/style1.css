@@ -1,0 +1,96 @@
+.form1{
+    height: auto; 
+    width: 500px; 
+    text-align: center;
+    box-sizing: content-box;
+    border: 10pt;
+    background-color: grey;  
+   color: lightgray;
+    padding: 5%;
+    margin: auto;
+}
+.login{
+  padding-top: 300px;
+  padding: 10%;
+
+
+}
+.form3{
+  height: auto; 
+  width: 300px; 
+  text-align: center;
+  box-sizing: content-box;
+  border: 10pt;
+  background-color: grey;  
+ color: grey;
+  padding: 5%;
+  margin-top: 100px;
+
+}
+#data-end{
+    background-color: white;
+}
+.form2{
+    height: auto;
+    width: 500px;
+    text-align: center;
+    box-sizing: content-box;
+    border: 10pt;
+    background-color: lightgray;
+    margin: 5%;
+    padding: 5%;
+    
+}
+.form3{
+    height: auto;
+    width: 500px;
+    text-align: center;
+    box-sizing: content-box;
+    border: 10pt;
+    background-color: lightgray;
+    margin:auto;
+    padding: 5%;
+    
+}
+.tabel{
+    margin: 5%;
+    background-color: lightgray;
+    height: auto;
+    width: auto;
+    padding: 5%;
+    
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid grey;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: white;
+  }
+  th {
+      background-color: black;
+      
+  }
+.trsd{
+    
+    background-color: o;
+    height: auto;
+    width: auto;
+    padding: 5%;
+    
+   
+  }
+  .tabeltransaksi{
+    margin: 5%;
+    padding: 5%;
+    background-color: lightgray;
+  }
+  
